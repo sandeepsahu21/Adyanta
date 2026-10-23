@@ -1,0 +1,41 @@
+
+# Node dependencies and Expo cache
+**/node_modules/
+**/.expo/
+**/dist/
+**/web-build/
+
+# Python virtual environments
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup of nested frontend Git repository
+Adyanta/adyanta-app/.git-backup/
+
+# Nested Git metadata and backups
+**/.git/
+**/.git-old/
+**/.git-backup/
+
+# Editor settings
+**/.vscode/
+
+# Backup Git folders
+**/.git-old/
+**/.git-backup/
