@@ -1,5 +1,5 @@
 
-const API_BASE_URL = 'http://10.39.54.48:5000';
+const API_BASE_URL = 'https://adyanta-backend.onrender.com';
 
 export async function checkBackend() {
   try {
