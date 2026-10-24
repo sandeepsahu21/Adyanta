@@ -155,7 +155,7 @@ export default function SignupScreen() {
               'Password',
               password,
               setPassword,
-              'At least 6 characters'
+              'At least 8 characters'
             )}
 
             <View style={styles.fieldGap} />
